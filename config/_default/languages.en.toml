@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "George's Portfolio"
+# logo = "img/profile.jpg"
+description = "George's Portfolio"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "George Bolmida"
+  image = "img/profile.jpg"
+  headline = "Software Engineer"
+  bio = "Software Engineer"
+  links = [
+    { email = "mailto:gbolmida@georgebolmida.com" },
+    { github = "https://github.com/g-bolmida" },
+    { gitlab = "https://gitlab.com/g-bolmida" },
+    { linkedin = "https://www.linkedin.com/in/george-bolmida" },
+  ]
